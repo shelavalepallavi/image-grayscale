@@ -9,7 +9,7 @@ Hover over the image to restore its original vibrant colors!
 
 - 🖼️ Display images in grayscale.
 - 🎯 Hover to reveal original color.
-- ⚡ Built only with **HTML** and **CSS** (no JavaScript needed).
+- ⚡ Built only with **HTML** and **CSS**
 - 📱 Fully responsive and clean design.
 
 ---
@@ -18,19 +18,16 @@ Hover over the image to restore its original vibrant colors!
 
 | Grayscale Image | Color on Hover |
 |:---------------:|:--------------:|
-| ![Grayscale Image](screenshots/grayscale.png) | ![Color Image](screenshots/color.png) |
+| ![Grayscale Image](grayscale.png) | ![Color Image](color.png) |
 
-> 📷 Place your screenshots inside the `screenshots/` folder.
 
 ---
 
 ## 📂 Project Structure
-Project Structure
-arduino
-Copy
-Edit
+```
 /image-grayscale
   ├── index.html
   └── style.css
-  └── images/
-       └── your-image.jpg
+  └── color.png
+  └── grayscale.png
+       
